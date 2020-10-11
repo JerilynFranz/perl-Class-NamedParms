@@ -225,7 +225,7 @@ Jerilyn Franz <cpan@jerilyn.info>
 
 =head1 VERSION
 
-1.07 2020.10.10
+1.08 2020.10.10
 
 =head1 TODO
 
