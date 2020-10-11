@@ -1,0 +1,24 @@
+Class::NamedParms
+
+ Provides standard get/set/clear accessors for a class via named
+ parameter with forced lexical checking of named parameters 
+ for validity and initialization validation. Lightweight and simple
+ to use. Designed as a base class for inheritance by other modules.
+
+To install:
+
+perl Makefile.PL
+make
+make test
+make install
+
+Alternatively, if you have Module::Build installed,
+
+perl Build.PL
+./Build
+./Build test
+./Build install
+
+Type 'perldoc Class::NamedParms' after installation for the documentation
+
+Copyright 1999-2020, Jerilyn Franz FreeRun Technologies, Inc. All Rights Reserved.
