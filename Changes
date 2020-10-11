@@ -19,3 +19,5 @@
 
  1.07 2020.10.10 - Relicensed under MIT License. Maintainer info updated.
                    Build tooling updated. Documentation updates
+
+ 1.08 2020.10.10 - Added LICENSE file that was inadvertently omitted in 1.07

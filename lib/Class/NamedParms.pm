@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 BEGIN {
-    $Class::NamedParms::VERSION = '1.07';
+    $Class::NamedParms::VERSION = '1.08';
 }
 
 ######################################################################
